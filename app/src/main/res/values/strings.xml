@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RunTask</string>
+    <string name="equal">=</string>
+    <string name="upper"><![CDATA[>]]></string>
+    <string name="lower"><![CDATA[<]]></string>
+    <string name="_0_1000000000">Загадайте число от 0 до 1000000000</string>
+</resources>
